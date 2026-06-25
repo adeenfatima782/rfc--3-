@@ -26,4 +26,4 @@ RFC is a complete MERN stack web application designed to streamline online food 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/adeenfatima782/rfc--3-](https://github.com/adeenfatima782/rfc--3-)
+   git clone https://github.com/adeenfatima782/rfc--3-.git
