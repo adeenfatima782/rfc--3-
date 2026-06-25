@@ -1,0 +1,21 @@
+@import url("https://unpkg.com");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* index.css */
+body {
+  @apply text-gray-900 bg-white transition-colors duration-300;
+  body{
+  font-family: 'Poppins', sans-serif;
+  background: black;
+}
+}
+
+.dark body {
+  @apply text-white bg-gray-900;
+}
+
+/* Taake saare p tags aur headings khud theek ho jayen */
+p, h1, h2, h3, h4, span {
+  @apply text-current;
+}
